@@ -1,0 +1,11 @@
+<div id="cuerpo">
+  <br><div id="titulo">Titulo Tema</div>
+    <br><div id="imagen-info">
+  <br><p><b>Lugar</b> <i>Respuesta</i><br>
+    <b>Personajes</b> <i>Respuesta</i><br>
+    <b>Temporalidad</b> <i>Respuesta</i><br>
+  </p>
+    </div><br><br>
+
+    <div id="txt"></div>
+</div>
