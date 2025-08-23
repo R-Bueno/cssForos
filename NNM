@@ -2,4 +2,4 @@ Kelvin
 &#x23f5; <dken>Diálogo</dken> &#x23f4;
 &#x25bb; <tken>Pensamiento</tken> &#x25c5;
 
-<style>dken { color: #594F4F; font-style: italic; } tken { color: #8C7F3F; font-style: italic; }</style>
+<style>@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&display=swap'); text { font-family: "Edu NSW ACT Cursive", cursive; font-optical-sizing: auto; font-weight: <weight>; text-aligm: justify } dken { color: #594F4F; font-style: italic; } tken { color: #8C7F3F; font-style: italic; }</style>
