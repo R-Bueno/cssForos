@@ -4,7 +4,7 @@
 
 <span class="Info">Inventario:</span><br>
 
-<span class="InfoRes">Respeusta</span>
+<span class="InfoRes">Respeusta</span><br>
 
 <span class="Info">Información Básica:</span><br>
 
@@ -23,10 +23,14 @@
 
 <span class="Info">Movimientos:</span><br>
 
-<span class="Info">Ataque:</span> <br>
-<span class="Info">Defensa:</span> <br>
-<span class="Info">Soporte:</span> <br>
+<span class="Info">Ataque:</span><span class="InfoRes">Respeusta</span><br>
+<span class="Info">Defensa:</span><span class="InfoRes">Respeusta</span><br>
+<span class="Info">Soporte:</span><span class="InfoRes">Respeusta</span><br>
 
 <span class="Info">Uso:</span><br>
 
-<span class="Info">Reposo:</span><br>[/spoiler]
+<span class="InfoRes">Respeusta</span><br>
+
+<span class="Info">Reposo:</span><br>
+
+<span class="InfoRes">Respeusta</span><br>[/spoiler]
