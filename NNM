@@ -2,4 +2,4 @@ Kelvin
 &#x23f5; <dken>Diálogo</dken> &#x23f4;
 &#x25bb; <tken>Pensamiento</tken> &#x25c5;
 
-<style>@import url('https://fonts.googleapis.com/css2?family=Crafty+Girls&display=swap'); text { font-family:  "Crafty Girls", cursive; font-weight:  400; font-style: normal; text-align: justify; } dken { color: #594F4F; font-style: italic; } tken { color: #8C7F3F; font-style: italic; }</style>
+<style>@import url('https://fonts.googleapis.com/css2?family=Modern+Antiqua&display=swap'); text{ font-family: "Modern Antiqua", serif; font-weight: 400; font-style: normal; } dken { color: #594F4F; font-style: italic; } tken { color: #8C7F3F; font-style: italic; }</style>
