@@ -1,0 +1,61 @@
+<script src="https://kit.fontawesome.com/3afb888a2c.js" crossorigin="anonymous"></script>
+<div class="fire">
+   <div data-section="image"><img src="https://i.ibb.co/mSskFFZ/imagen-2025-01-07-045805509.png"/></div>
+   <details><summary></summary></details>
+   <div data-section="title">
+   <i>I WILL BREAK THE LABERYNTH OF</i>
+   <b>Hephaestus </b>
+   </div>
+   <div data-section="body">
+   <div data-section="quote">
+   <i class="cp cp-puzzle-o"></i>
+   <span>I don't know if I can be considered a genius, but I'm absolutely sure that you're a dumbshit deadhead.</span>
+   </div>
+   <div data-section="text"><center><h1>Descripción física:</h1></center><br/>
+   Mide alrededor de 2,50, es bastante delgado, con claros indicios de ser alguien que pasa mucho tiempo dentro de una biblioteca, pero es extrañamente fuerte a la hora de hacer labores de construcción.
+   [spoiler] <img src="https://i.ibb.co/QrmF9TV/imagen-2025-01-07-045939709.png" alt="">
+   <img src="https://i.ibb.co/1L7wz6x/imagen-2025-01-07-050058060.png" alt="">
+   [/spoiler]
+   <br/><br/>
+   <center><h1>Descripción psicológica:</h1></center><br/>
+   Es un chico bastante centrado en los estudios, pocas cosas son capaces de hacer que salga de la biblioteca o de su taller, no es alguien que vaya a ir a viajar sin una motivación clara, es alguien que prefiere mil veces permanecer en el taller o la biblioteca a correr por el campo o exponerse a ser atacado por cualquier maleante que quiera sacarle dinero a alguien que esté distraído. Considera la necesidad de conocimiento la principal motivación para despertarse, a tal punto, que normalmente acaba permaneciendo despierto por días enteros con tal de continuar con sus estudios.
+
+   Su carácter es afable y calmado, siendo bastante fácil de tratar en temas sociales habituales, aunque no es precisamente abierto, mantiene su carácter más cariñoso para quien sea digno de ello, aunque eso sea a sus ojos, no es que tenga que cumplir con unas condiciones según la sociedad, a él le importa poco o nada eso, para él, importa que sea de fiar y pueda abrirse sin temer a que le vaya a traicionar o castigar por lo que hace.
+
+   Considera que el conocimiento es la base de todo, no es algo que sea estricto para un grupo, tiene en mente hacer negocio, abrir comercios y comerciar, y sabe que no es algo que entre en sus planes limitar su clientela, por lo que seguramente haga negocios sin importarle mucho con quien, sea legal o ilegal el personaje, puede amoldarse a ello.
+   <br/><br/>
+   <center><h1>Historia:</h1></center><br/>
+   Fusce euismod metus eget magna dapibus sollicitudin. Curabitur et justo nec felis gravida feugiat quis at massa. Fusce elit risus, euismod feugiat posuere a, feugiat vel diam. Nunc quis eros eu est efficitur cursus. Cras sed tristique ipsum. Mauris non convallis enim. Suspendisse potenti. Ut at mattis justo.
+   <br/><br/>
+   <center><h1>Extras:</h1></center><br/>
+   <ul style="list-style-image: url(https://i.ibb.co/bHJmhj8/lista.png);">
+       <li><ul style="list-style-image: url(https://i.ibb.co/X3CMSmz/lista2.png);">Gustos:<br/>
+           <li>Café</li>
+           <li>Música</li>
+           <li>Bibliotecas</li>
+           <li>Tranquilidad</li>
+           <li>Silencio</li>
+       </ul></li>
+       <li><ul style="list-style-image: url(https://i.ibb.co/bzhyw6M/lista3.png);">Desagrados:<br/>
+           <li>Alcohol</li>
+           <li>Tabaco</li>
+           <li>Ruido</li>
+       </li>
+   </ul>
+   Posee una mascota bastante peculiar, se trata de un cuervo que viaja junto a él, lo encontró de pequeño siendo un polluelo y lo cuidó, por lo que se hicieron inseparables.
+   <b>PB:</b> <i>Daimon Kaito</i><br/><br/>
+   <b>Procedencia</b> <i">Phi Brain</i>
+   </div>
+   <div data-section="data">
+   <span><b>Nombre:</b><i>Daimon E. Kaito</i></span>
+   <span><b>Edad:</b><i>17</i></span>
+   <span><b>Isla de Nacimiento:</b><i>Desconocida</i></span>
+   <span><b>Género:</b><i>Masculino</i></span>
+   <span><b>Raza:</b><i>Humano</i></span>
+   <span><b>Facción:</b><i>Civil</i></span>
+   <span><b>Destino:</b><i>Social</i></span>
+   </div>
+   </div>
+   </div>
+   <a href="https://necromancercoding.tumblr.com/" class="ncredit">NC</a>
+   <style>.fire { --ratio:horizontal;/*Cambia por vertical si quieres la versión vertical*/ --w:800px; --h:400px; --b:black; --gap:20px; --padding:40px; --accent1:#9e441e; --accent2:#8c3014; --border1:var(--border1-w) solid var(--border1-c); --border1-w:1px; --border1-c:var(--accent2); --border2:var(--border2-w) solid var(--border2-c); --border2-w:1px; --border2-c:color-mix(in srgb, var(--accent1) 25%, transparent); --scroll-w:1px; --scroll-b:var(--accent2); --image-op:.5; --image-c1:#777; --image-c2:#000; --image-e1:multiply; --image-e2:color; --image-f:contrast(.80) brightness(.7); --fs-song1:30px; --f-song1:var(--f-title2); --song-c1:var(--accent2); --fs-song2:9px; --f-song2:var(--f-title1); --song-c2:var(--title1); --fs-data1:9px; --f-data1:var(--f-title1); --data1-c:var(--title1); --data1-b:color-mix(in srgb, var(--accent2) 50%, transparent); --data1-br:1px solid var(--accent1); --fs-data2:12px; --f-data2:var(--f-title1); --data2-c:#bbb; --fs-title1:10px; --f-title1:'Cantata One'; --fs-title2:70px; --f-title2:'Vintage Mohai - Demo Version'; --title1:#eee; --title2:linear-gradient(185deg, transparent, transparent, color-mix(in srgb, var(--accent2) 10%, transparent), var(--accent2), var(--accent1)); --title2-s:1px var(--accent1); --title2-c:color-mix(in srgb, var(--accent2) 20%, transparent); --text:#999; --fs-body:12px; --f-body:'open sans', sans-serif; --icon-fs:20px; --icon-c:white; --icon-b:var(--accent1); --quote-h:70px; --song-h:70px; --anim-speed:15s; }</style><link href="//icons.cappuccicons.com/cpf.css" rel="stylesheet"/><link href="https://dl.dropboxusercontent.com/scl/fi/9jpfe8yqd8f15d9cmz6q6/VintageMohai.css?rlkey=zegry7n7jmjd7od5zgwksqruk&dl=0" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Cantata+One&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet"/><link href="https://dl.dropboxusercontent.com/scl/fi/a0nmxxy9ojb7aepz9sjl5/fire.css?rlkey=m1i1vejhx6bg8t29jix04obu6&st=n03nvdsh&dl=0" rel="stylesheet"/>
