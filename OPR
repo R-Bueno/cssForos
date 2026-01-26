@@ -49,4 +49,4 @@ Lugh:
 Mirko:
 &#x2022; <dmmm>Diálogo</dmmm> &#x2022;
 &#x204e; <tmmm>Pensamiento</tmmm> &#x204e;
-<style>@import url('https://fonts.googleapis.com/css2?family=Modern+Antiqua&display=swap'); post{ font-family: "Modern Antiqua", serif; font-weight: 400; font-style: normal; text-align: justify;} dmmm { color: #402232; font-style: italic; } tmmm { color: #FFBEB5; font-style: italic; }</style>
+<style>@import url('https://fonts.googleapis.com/css2?family=Modern+Antiqua&display=swap'); post{ font-family: "Modern Antiqua", serif; font-weight: 400; font-style: normal; text-align: justify;} dmmm { color: #892F5F; font-style: italic; } tmmm { color: #FFBEB5; font-style: italic; }</style>
