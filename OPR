@@ -27,16 +27,12 @@ Kun-woo:
 &#x2022; <ds>Diálogo</ds> &#x2022;
 &#x204e; <ts>Pensamiento</ts> &#x204e;
 
-Tipene:
-<style>post{ text-align: justify;}dti{color: #3075A2; font-style: oblique;} tti{color: #8596A9; font-style: oblique;} dk {color:#5fb3bb; font-style: oblique;} tk {color: #1fcfb5; font-style: oblique;} da{color:#92714C; font-style: oblique;} ta{color: #C7AF87; font-style: oblique;}</style>
-&#x2022; <dti>Diálogo Tipene</dti> &#x2022;
-&#x204e; <tti>Pensamiento Tipene</tti> &#x204e;
-&#x2022; <dk>Diálogo Kurotabo</dk> &#x2022;
-&#x204e; <tk>Pensamiento Kurotabo</tk> &#x204e;
-&#x2022; <da>Diálogo Agamotto</da> &#x2022;
-&#x204e; <ta>Pensamiento Agamotto</ta> &#x204e;
+Kaito:
+<style>post{ text-align: justify;}dka{color: #5B3A6E; font-style: oblique;} tka{color: #5C6B7A; font-style: oblique;}</style>
+&#x2022; <dka>Diálogo</dka> &#x2022;
+&#x204e; <tka>Pensamiento</tka> &#x204e;
 
-Yu:
+Reiya:
 <style>post{ text-align: justify;}dy{color: #c0814c; font-style: oblique;} ty{color: #f67d14; font-style: oblique;}</style>
 &#x2022; <dy>Diálogo</dy> &#x2022;
 &#x204e; <ty>Pensamiento</ty> &#x204e;
@@ -50,3 +46,20 @@ Mirko:
 &#x2022; <dmmm>Diálogo</dmmm> &#x2022;
 &#x204e; <tmmm>Pensamiento</tmmm> &#x204e;
 <style>post{ text-align: justify;} dmmm { color: #892F5F; font-style: italic; } tmmm { color: #FFBEB5; font-style: italic; }</style>
+
+
+
+
+Tipene:
+<style>post{ text-align: justify;}dti{color: #3075A2; font-style: oblique;} tti{color: #8596A9; font-style: oblique;} dk {color:#5fb3bb; font-style: oblique;} tk {color: #1fcfb5; font-style: oblique;} da{color:#92714C; font-style: oblique;} ta{color: #C7AF87; font-style: oblique;}</style>
+&#x2022; <dti>Diálogo Tipene</dti> &#x2022;
+&#x204e; <tti>Pensamiento Tipene</tti> &#x204e;
+&#x2022; <dk>Diálogo Kurotabo</dk> &#x2022;
+&#x204e; <tk>Pensamiento Kurotabo</tk> &#x204e;
+&#x2022; <da>Diálogo Agamotto</da> &#x2022;
+&#x204e; <ta>Pensamiento Agamotto</ta> &#x204e;
+
+Yu:
+<style>post{ text-align: justify;}dy{color: #c0814c; font-style: oblique;} ty{color: #f67d14; font-style: oblique;}</style>
+&#x2022; <dy>Diálogo</dy> &#x2022;
+&#x204e; <ty>Pensamiento</ty> &#x204e;
