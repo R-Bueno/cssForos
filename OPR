@@ -33,9 +33,9 @@ Kaito:
 &#x204e; <tka>Pensamiento</tka> &#x204e;
 
 Reiya:
-<style>post{ text-align: justify;}dy{color: #c0814c; font-style: oblique;} ty{color: #f67d14; font-style: oblique;}</style>
-&#x2022; <dy>Diálogo</dy> &#x2022;
-&#x204e; <ty>Pensamiento</ty> &#x204e;
+<style>post{ text-align: justify;}dr{color: #0A272E; font-style: oblique;} tr{color: #8C736D; font-style: oblique;}</style>
+&#x2022; <dr>Diálogo</dr> &#x2022;
+&#x204e; <tr>Pensamiento</tr> &#x204e;
 
 Lugh:
 <style>post{ text-align: justify;} dlu{color: #BF2604; font-style: oblique;} tlu{color: #BFA099; font-style: oblique;}</style>
